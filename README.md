@@ -50,3 +50,4 @@ Follow the instructions for configuring the CAN FD HAT.
 Instructions for preparing a new SD card or cloning an existing SystemCore installation.
 
 - [Setup & Build Guide](./setup/README.md)
+
