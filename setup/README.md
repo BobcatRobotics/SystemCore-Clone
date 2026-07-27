@@ -2,7 +2,7 @@
 A simple guide to either setup a new sd card from base image or copy an sd card to a zip for sharing.
 
 ## Building an SystemCore Beta  SD Card from scratch Guide
-- [new Build Guide](./New%20Build.md)
+- [New Build Guide](./New%20Build.md)
 
 
 ## Sharing the SD Image Card Guide

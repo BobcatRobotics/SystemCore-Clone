@@ -18,6 +18,11 @@ Required if you are using the latest WPILib beta release.
 This is the base os image used if you are preperaing or setting up your own image instead of using Bobcat's Prebuilt image
 - https://github.com/LimelightVision/systemcore-os-public/releases
 
+### Canivore usb drivers
+This two driver files neeeded for the canivore usb.
+- https://ctre.download/files/systemcore/canivore-usb-kernel_1.18_aarch64.ipk
+- https://ctre.download/files/systemcore/canivore-usb_1.16_aarch64.ipk
+
 
 ## Required Hardware
 The following hardware that we have tested with 
