@@ -1,0 +1,13 @@
+[Unit]
+Description=DIY SystemCore CAN setup (stable-name MCP2515 buses, 1Mbps, robot_heartbeat)
+After=network-pre.target systemd-modules-load.service
+Wants=network-pre.target
+Before=robot.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/local/sbin/diy-can-setup.sh
+
+[Install]
+WantedBy=multi-user.target
