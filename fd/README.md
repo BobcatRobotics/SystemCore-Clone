@@ -17,7 +17,7 @@ A simple project using a Raspberry Pi with a Waveshare CAN Pi HAT.
 
 Preconfigured config.txt and added the the service to add the overlay and "direct" can data to the overlay.
 
-- [Project Image](https://drive.google.com/file/d/1zEDTlftA6s781P6pOJyRPjovPXQMfwJP/view?usp=drive_link)
+- [OS Image](https://drive.google.com/file/d/1z9JZ31z3y5s7CDYZU3TlXk1nzEgXCvyU/view?usp=drive_link)
 
 ## Directory Structure
 
