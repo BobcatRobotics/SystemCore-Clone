@@ -22,7 +22,7 @@ developing and testing earlier.
 
 - Put the card in your raspberry pi once its been burned
 
-- Connect to the wireless network "SYSTEMCORE" using the password "password"
+- Connect to the wireless network "SYSTEMCORE" using the password "PASSWORD" (upper case sensitive)
 
 - from the main dashboard click on the "terminal" app
 
