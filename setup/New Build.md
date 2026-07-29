@@ -64,7 +64,7 @@ scp -r systemcore-can-nofd-setup systemcore@<pi-address>:/home/systemcore/
 - Execute the installer in the command by entering the folder directory
 ```
 Use one of the below commands corresponding to your CAN Board
-cd ~/systemcore-can-nofd-setup 
+cd ~/systemcore-can-fd-setup 
 or 
 cd ~/systemcore-can-nofd-setup 
 
